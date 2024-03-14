@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Joe</h1>
 <h3 align="left">I am a developer with 5+ years of experience building and deploying scalable web and mobile applications. I also have 1+ year of experience in the blockchain field.</h3>
-<h3>Things I with</h3>
+<h3>Things I work with</h3>
 <p>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -15,12 +15,24 @@
    <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1??style=flat-square&logo=mysql&logoColor=white" />
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-- 👨‍💻 All of my projects are available at [https://congvc.com/](https://congvc.com/)
-- 📫 How to reach me **cngvc98@gmail.com**
-- 📄 Know about my experiences [https://cngvc.github.io/cv](https://cngvc.github.io/cv)
+
+---
+<ol>
+  <li>👨‍💻 All of my projects are available at [https://congvc.com/](https://congvc.com/)</li>
+  <li>📫 How to reach me **cngvc98@gmail.com**</li>
+  <li>📄 Know about my experiences [https://cngvc.github.io/cv](https://cngvc.github.io/cv)</li>
+</ol>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/jv98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jv98" height="30" width="40" /></a>
 </p>
+
+---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cngvc&" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cngvc&label=Visitors&color=0e75b6&style=flat" /> </p>
+
+![CG's GitHub stats](https://github-readme-stats-iota-bice-82.vercel.app/api?username=cngvc&show_icons=true&theme=radical)
