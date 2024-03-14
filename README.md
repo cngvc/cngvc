@@ -17,10 +17,9 @@
 </p>
 
 ---
-<ol>
-  <li>👨‍💻 All of my projects are available at [https://congvc.com/](https://congvc.com/)</li>
-  <li>📫 How to reach me **cngvc98@gmail.com**</li>
-  <li>📄 Know about my experiences [https://cngvc.github.io/cv](https://cngvc.github.io/cv)</li>
+1. 👨‍💻 All of my projects are available at [congvc.com](https://congvc.com/)</li>
+2. 📫 How to reach me **cngvc98@gmail.com**</li>
+3. 📄 Know about my experiences [cngvc.github.io/cv](https://cngvc.github.io/cv)</li>
 </ol>
 
 ---
@@ -33,6 +32,7 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cngvc&" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cngvc&label=Visitors&color=0e75b6&style=flat" /> </p>
 
-![CG's GitHub stats](https://github-readme-stats-iota-bice-82.vercel.app/api?username=cngvc&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-stats-sigma-five-58.vercel.app/api?username=cngvc&show_icons=true&theme=radical" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cngvc&label=Visitors&color=0e75b6&style=flat" /> </p>
