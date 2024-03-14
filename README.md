@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Joe</h1>
 <h3 align="left">I am a developer with 5+ years of experience building and deploying scalable web and mobile applications. I also have 1+ year of experience in the blockchain field.</h3>
-<h3>Things I work with</h3>
+<h3>Things I work with:</h3>
 <p>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -16,23 +16,28 @@
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
----
-1. 👨‍💻 All of my projects are available at [congvc.com](https://congvc.com/)</li>
-2. 📫 How to reach me **cngvc98@gmail.com**</li>
-3. 📄 Know about my experiences [cngvc.github.io/cv](https://cngvc.github.io/cv)</li>
-</ol>
 
----
+1. 👨‍💻 All of my projects are available at [congvc.com](https://congvc.com/)
+2. 📫 How to reach me **cngvc98@gmail.com**
+3. 📄 Know about my experiences [cngvc.github.io/cv](https://cngvc.github.io/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/jv98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jv98" height="30" width="40" /></a>
 </p>
 
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cngvc&" /></p>
-
-<p><img align="center" src="https://github-readme-stats-sigma-five-58.vercel.app/api?username=cngvc&show_icons=true&theme=radical" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cngvc&label=Visitors&color=0e75b6&style=flat" /> </p>
+<p>
+   <h3 align="left">Total Contributions:</h3>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cngvc&theme=dracula" />
+</p>
+<p>
+   <h3 align="left">Github Stats:</h3>
+   <img align="center" src="https://github-readme-stats-sigma-five-58.vercel.app/api?username=cngvc&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true" />
+</p>
+<p align="left">
+   <h3 align="left">Most Used Languages:</h3>
+   <img src="https://github-readme-stats-sigma-five-58.vercel.app/api/top-langs/?username=cngvc&theme=dracula&hide_title=true" />
+</p>
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=cngvc&label=Visitors&color=0e75b6&style=flat" />
+</p>
