@@ -16,9 +16,8 @@
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
 1. 👨‍💻 All of my projects are available at [congvc.com](https://congvc.com/)
-2. 📫 How to reach me **cngvc98@gmail.com**
+2. 📫 How to reach me **cngvu.work@gmail.com**
 3. 📄 Know about my experiences [cngvc.github.io/cv](https://cngvc.github.io/cv)
 
 <h3 align="left">Connect with me:</h3>
