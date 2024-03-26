@@ -27,11 +27,11 @@
 
 <p>
    <h3 align="left">Total Contributions:</h3>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cngvc&theme=dracula" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cngvc&theme=dracula&ring_color=ECAA43&icon_color=ECAA43&bg_color=0C2434" />
 </p>
 <p>
    <h3 align="left">Github Stats:</h3>
-   <img align="center" src="https://github-readme-stats-sigma-five-58.vercel.app/api?username=cngvc&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true" />
+   <img align="center" src="https://github-readme-stats-sigma-five-58.vercel.app/api?username=cngvc&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&ring_color=ECAA43&icon_color=ECAA43&bg_color=0C2434" />
 </p>
 <p align="left">
    <h3 align="left">Most Used Languages:</h3>
