@@ -35,7 +35,7 @@
 </p>
 <p align="left">
    <h3 align="left">Most Used Languages:</h3>
-   <img src="https://github-readme-stats-sigma-five-58.vercel.app/api/top-langs/?username=cngvc&theme=dracula&hide_title=true" />
+   <img src="https://github-readme-stats-sigma-five-58.vercel.app/api/top-langs/?username=cngvc&theme=dracula&hide_title=true&border_color=ECAA43&ring_color=ECAA43&icon_color=ECAA43&bg_color=0C2434" />
 </p>
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=cngvc&label=Visitors&color=0e75b6&style=flat" />
