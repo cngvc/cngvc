@@ -1,3 +1,5 @@
+<img src="this-is-fine.gif" alt="This is fine">
+
 <h1 align="left">Hi 👋, I'm Joe</h1>
 <h3 align="left">I am a developer with 5+ years of experience building and deploying scalable web and mobile applications. I also have 1+ year of experience in the blockchain field.</h3>
 <h3>Things I work with:</h3>
