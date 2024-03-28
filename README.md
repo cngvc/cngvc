@@ -24,7 +24,10 @@
 <p align="left">
    <a href="https://linkedin.com/in/jv98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jv98" height="30" width="40" /></a>
 </p>
-
+<p align="left">
+   <h3 align="left">LeetCode:</h3>
+   <img src="https://leetcard.jacoblin.cool/cngvc98?theme=nord&font=Noto%20Sans&ext=heatmap" />
+</p>
 <p>
    <h3 align="left">Total Contributions:</h3>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cngvc&theme=dark&background=0C2434&border=ECAA43&ring=ECAA43" />
