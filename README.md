@@ -26,7 +26,7 @@
 </p>
 <p align="left">
    <h3 align="left">LeetCode:</h3>
-   <img src="https://leetcard.jacoblin.cool/cngvc98?theme=nord&font=Noto%20Sans&ext=heatmap" />
+   <img src="https://leetcard.jacoblin.cool/cngvc?theme=nord&font=Noto%20Sans&ext=heatmap" />
 </p>
 <p>
    <h3 align="left">Total Contributions:</h3>
