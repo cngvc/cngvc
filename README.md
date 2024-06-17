@@ -23,7 +23,7 @@
 
 1. 👨‍💻 All of my projects are available at [congvc.com](https://congvc.com/)
 2. 📫 How to reach me **cngvu.work@gmail.com**
-3. 📄 Know about my experiences [cngvc.github.io/cv](https://cngvc.github.io/cv)
+3. 📄 Know about my experiences [Resume](https://congvc.com/assets/congs-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
