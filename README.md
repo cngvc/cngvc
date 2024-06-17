@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=32&pause=1000&color=ECAA43&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Joe+on+cloud" alt="This is fine">
 
-<h3 align="left">I am a developer with 5+ years of experience building and deploying scalable web and mobile applications. I also have 1+ year of experience in the blockchain field.</h3>
+<h3 align="left">I am a developer with over five years of experience in building and deploying scalable web and mobile applications. Additionally, I have more than one year of experience in the blockchain field.</h3>
 <h3>Things I work with:</h3>
 <p>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
