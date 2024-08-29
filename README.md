@@ -29,22 +29,3 @@
 <p align="left">
    <a href="https://linkedin.com/in/jv98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jv98" height="30" width="40" /></a>
 </p>
-<p align="left">
-   <h3 align="left">LeetCode:</h3>
-   <img src="https://leetcard.jacoblin.cool/cngvc?theme=nord&font=Noto%20Sans&ext=heatmap" />
-</p>
-<p>
-   <h3 align="left">Total Contributions:</h3>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cngvc&theme=dark&background=0C2434&border=ECAA43&ring=ECAA43" />
-</p>
-<p>
-   <h3 align="left">Github Stats:</h3>
-   <img align="center" src="https://github-readme-stats-sigma-five-58.vercel.app/api?username=cngvc&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&border_color=ECAA43&ring_color=ECAA43&icon_color=ECAA43&bg_color=0C2434" />
-</p>
-<p align="left">
-   <h3 align="left">Most Used Languages:</h3>
-   <img src="https://github-readme-stats-sigma-five-58.vercel.app/api/top-langs/?username=cngvc&theme=dracula&hide_title=true&border_color=ECAA43&ring_color=ECAA43&icon_color=ECAA43&bg_color=0C2434" />
-</p>
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=cngvc&label=Visitors&color=0e75b6&style=flat" />
-</p>
