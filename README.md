@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=32&pause=1000&color=ECAA43&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Joe+on+cloud" alt="This is fine">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=ECAA43&repeat=false&width=435&lines=Hi!+This+is+Joe" alt="Joe" /></a>
 
 <h3 align="left">I do what I love</h3>
 <h3>Things I work with:</h3>
