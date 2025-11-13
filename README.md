@@ -21,5 +21,5 @@
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-1. 👨‍💻 All of my projects are available at [congvc.com](https://congvc.com/)
+1. 👨‍💻 All of my projects are available at [joevuportfolio.vercel.app](https://joevuportfolio.vercel.app/)
 2. 📫 How to reach me **joevu.work@gmail.com**
